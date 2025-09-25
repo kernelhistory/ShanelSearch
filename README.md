@@ -4,6 +4,7 @@ Telegram search bot, all data is fictional.
 
 **Links**
 - Official ShanelSearch bot - https://t.me/shanelsearchbot
+- Offical ShanelSearch chanel - https://t.me/chuzhoykukumber
 
 **Developers**
 - https://t.me/kernelhistory
