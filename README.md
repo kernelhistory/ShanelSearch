@@ -1,9 +1,14 @@
 # ShanelSearch
 
 Telegram search bot
+All data is fictional.
 
-## Features
-- Anti-spam system
-- Extended search
-- Improved security
-- HTML response support
+#Links
+Official ShanelSearch bot - https://t.me/shanelsearchbot
+
+#Developers
+https://t.me/kernelhistory
+https://t.me/pkgchz
+
+#Warning
+We are not responsible for lost money or your actions.
