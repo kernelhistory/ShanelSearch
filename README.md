@@ -30,3 +30,5 @@ Try the update and enjoy the enhanced bot experience!
 - 1 month - 50⭐️/0.50$
 - Half a year - 100⭐️/1$
 - Forever - 170⭐️/2$
+
+# **If you want to purchase a subscription, write to the developers.**
