@@ -1,14 +1,13 @@
-# ShanelSearch
+#ShanelSearch
 
-Telegram search bot
-All data is fictional.
+Telegram search bot, all data is fictional.
 
 ##Links
-Official ShanelSearch bot - https://t.me/shanelsearchbot
+- Official ShanelSearch bot - https://t.me/shanelsearchbot
 
 ##Developers
-https://t.me/kernelhistory
-https://t.me/pkgchz
+- https://t.me/kernelhistory
+- https://t.me/pkgchz
 
 ##Warning
-We are not responsible for lost money or your actions.
+- We are not responsible for lost money or your actions.
