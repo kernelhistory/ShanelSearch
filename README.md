@@ -2,12 +2,12 @@
 
 Telegram search bot, all data is fictional.
 
-##Links
+Links
 - Official ShanelSearch bot - https://t.me/shanelsearchbot
 
-##Developers
+Developers
 - https://t.me/kernelhistory
 - https://t.me/pkgchz
 
-##Warning
+Warning
 - We are not responsible for lost money or your actions.
