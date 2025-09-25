@@ -1,19 +1,19 @@
-#**ShanelSearch**
+**ShanelSearch**
 
 Telegram search bot, all data is fictional.
 
-#**Links**
+**Links**
 - Official ShanelSearch bot - https://t.me/shanelsearchbot
 - Offical ShanelSearch chanel - https://t.me/chuzhoykukumber
 
-#**Developers**
+**Developers**
 - https://t.me/kernelhistory
 - https://t.me/pkgchz
 
-#**Warning**
+**Warning**
 - We are not responsible for lost money or your actions.
 
-##**Changelog**
+**Changelog**
 
 ShanelSearch 1.0.2.0 (**beta**)
 
@@ -24,7 +24,7 @@ ShanelSearch 1.0.2.0 (**beta**)
 
 Try the update and enjoy the enhanced bot experience!
 
-#**Price**
+**Price**
 - 1 month - 50⭐️/0.50$
 - Half a year - 100⭐️/1$
 - Forever - 170⭐️/2$
